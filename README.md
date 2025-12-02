@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mia Banihashemi 👋
 
-<!--
-**Mahsa15/Mahsa15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst / BI (Power BI, Tableau) + Optimization (Operations Research / ILP).  
+I build decision-support solutions with Python + SQL: clean data → validate → analyze → visualize → recommend.
 
-Here are some ideas to get you started:
+## 🔥 Featured Projects
+- **Symmetric ILP Solver (Python / PySCIPOpt)** — optimization algorithms + reproducible experiments
+- **Data Visualization Portfolio (Power BI/Tableau)** — dashboards + storytelling + screenshots
+- **SQL Analytics Mini-Project** — schema + queries + analysis notebook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Skills
+Python (pandas, NumPy) • SQL • Power BI/Tableau • Data Quality • Dashboards • Optimization (ILP/MILP)
+
+## 🔗 Links
+- LinkedIn: https://www.linkedin.com/in/mia-banihashemi/
+- GitHub: https://github.com/Mahsa15
+
+## 📫 Contact
+Best way: LinkedIn message
+E-mail: mbanihashemi15@gmail.com
